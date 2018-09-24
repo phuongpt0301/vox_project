@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

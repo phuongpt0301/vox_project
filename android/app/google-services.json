@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "197530956170",
+    "project_id": "voxapp-191503"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197530956170:android:9699526504beaf47",
+        "android_client_info": {
+          "package_name": "com.studioweb.vox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197530956170-p8dv6qunlsrm5skcjv3stfd14r7ruv55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioweb.vox",
+            "certificate_hash": "5185fcb40ce201d4e8c7accc02b2da17ce957645"
+          }
+        },
+        {
+          "client_id": "197530956170-528ck2nvvj1tnos26i87bfmusjj0jml9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "197530956170-cps7c9tsohuu6nl2ptvg5kc0ljjq97qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studioweb.vox",
+            "certificate_hash": "242a0887ccd6f89a58244d641419f44391164c3a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxs-xkGlGf0I5p91gEtSS85FBHnmp_rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

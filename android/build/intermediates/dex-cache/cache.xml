@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_99878f382c519f35e4acada999fc31c191eb8758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_862f0ae7f91388d541bcb21bea298524171ae61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/react/react-native-paypal-wrapper/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa621da6b9a1eb20ae4d565f7f54311ad52058b8">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/react-react-native-paypal-wrapper-unspecified_183b5034206297c00f60b2d0f6bd0d99248da148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-15.0.1_effcc16098ca4e084e50a6b466d982d25b37e817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/15.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d6c5603c1034d267b99dbe79758df7498d34510">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-15.0.2_26f3bd7eef6e3ee8da9bb8d30ee27b5d794c64f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_21241924b2714a5493ef402dc58ed9ee76dc6130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6f02451d42dffc042338263743f56f053ce009c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_55ac46d232bc3a7fe0da54155cc3acf0560d7f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b7d3b8133a0fd0bba96891ebd1815c4c5506b1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3a59f89eaee342ef9bc48b0ea118e4c7ff5b64f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_d5618c4cf2af84685096f51bc615ef9bca872266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9339db4e36b72b60c200dba7cdf55e2c41a5b24a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_79a6757bffa4efafb7a318a48aa8d2887ae09c27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/react/react-native-facebook-login/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0e541f3efe2bc07308e1bc32ffb8143feeee8a55">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/react-react-native-facebook-login-unspecified_add09c7ffe0eecec61ec98927bbec9fe9b8392a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_a5677bf73c7fe3ad2076b7eef6f4b52cbbb9e006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c9f3ed917984af2e50b56f65f0398c9e5756035">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-api-phone-15.0.1_df78fbc6649dc3eb49abc5b582ef0b5e63ee92e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/react/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/react-react-native-vector-icons-unspecified_adb89dd8c5a5c4b2faf613a993e96e2ed0c0d458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-phenotype/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a151354aa2e464a67158c80808f72d9f407bb374">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-phenotype-15.0.1_eaac0182fcad41af4c7babd48bbe74dd1b81f0bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_146fe93b90994b6c0556b61e87a25b6e9b18b89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ee405008793ee02a05ef64b19a241cc0febd7398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_75a979380b8924922d27f2e71c901d7ffad18e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/react/react-native-google-sign-in/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9c4e6838faf4a7a6cb0a708650cd047d6fedb977">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/react-react-native-google-sign-in-unspecified_74d2719a38949192b6d22441ad07647d8243b432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/react/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4bc7e4c88d8a58037f153bc224b47da51ae40f2f">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/react-react-native-image-picker-unspecified_0844e91e12cc46a305df016c50e8ed69d7504a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.16.1_acef1846f325355616df3646db71a3f9b7f4df32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-15.0.1_52c46961628c4fc4b65a2f5f35c7e6bde38c0714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_352ea9ba79e7e45f4fb3408cf8b41d4c3172ed76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_8e95fd9e65990281a587b0111a3fb8d7d4510ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_afc8a7680cf2023c2f5b1bf848c81385a56e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5cc069066d0144117f73609079eded4a21a69df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_cac169c89ad41a7c0830685cc1a37d5d7a461e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/15.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7da1105a5007a32c837be28b349896ddcaa93a5f">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-15.0.2_1df376293b6afbf5df93f5e18f0e805c547f3c58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_37b272464d956bd17d958a1c49669af25116a774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.paypal.sdk/paypal-android-sdk/2.15.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7de4e9c774aa3924c5633377c652913fa7de49e0">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.paypal.sdk-paypal-android-sdk-2.15.1_b87f682182cc9b3028e6e12b757fd0e6568639da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_c2c70d22aed8a9f46fb09e93230ddb1204968ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_4b2892a227e6ccb65441eefab13febbc28676501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.4_1c8c660c240a8706c989ae79b0fc7821c5a5756d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/15.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="069291d23adfb15086d474acb9584392616e91c3">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-15.1.0_d816511845b854e06c611a2ff29715659bd1e098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_31589fd6f0ec211a5d273cdb55cca81e1e79dbdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-flags/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-flags-15.0.1_58d2b71c01273ca79e6157f63b1f28e6d6a417d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddcf9c81c108e18f458eb2b9f6a6b7b35fd09fb8">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-16.0.0_6276d03c157c972594f873e67144f7fbdaa5da5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c53f5c31eef672abcb71f0fae721d88318f033">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-15.0.1_e3b62fea08ff2605c3b66ef9dbcdcffca824d16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_12bb1dbbe9d594d618bbf995a235cef60cbe1d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-15.0.1_d26cf3722f037d6c2260498c7d37510eb6c13b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/io.card/android-sdk/5.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72d8905ae32c2758f3ca503db54c2741e007b3eb">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/io.card-android-sdk-5.4.2_2bcf5858269884a9a522b3497b37c3e938555904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_d288226df6b006b01410a9b64a596e6dfa7aded3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_dc90aeee492a9d3f173ffd6803b6d55fea2f0c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d082dc14909ece9d78a55c3d1c2ea134216e75c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ae5c9691caa62546c2e68e12d17e50d14c327db5.jar" />
+    </item>
+
+</items>

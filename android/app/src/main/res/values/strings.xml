@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VOX Populli</string>
+    <string name="fb_app_id">301304167335288</string>
+    <string name="fb_login_protocol_scheme">fb301304167335288</string>
+</resources>

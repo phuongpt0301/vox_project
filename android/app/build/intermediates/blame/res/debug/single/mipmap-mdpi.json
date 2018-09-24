@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/Downloads/temporary/vox/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/admin/Downloads/temporary/vox/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/WORK/Mobile-workspace/vox/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Volumes/WORK/Mobile-workspace/vox/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
